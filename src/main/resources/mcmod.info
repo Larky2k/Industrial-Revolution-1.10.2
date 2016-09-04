@@ -1,0 +1,16 @@
+[
+{
+  "modid": "irc",
+  "name": "Industrial Revolution Craft Mod",
+  "description": "Industrial Mod with Transportation.",
+  "version": "1.0.0",
+  "mcversion": "1.10.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Larky2k"],
+  "credits": "Larky2k",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
